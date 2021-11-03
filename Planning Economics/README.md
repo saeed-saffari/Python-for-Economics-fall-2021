@@ -4,14 +4,14 @@
 
 - [Introduction]()
 - Python Setup
-- [Object and Data Structure Basics]() [![Open In Colab]()
+- [Object and Data Structure Basics]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
-- [Python Statements and Functions]() [![Open In Colab]()
+- [Python Statements and Functions]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 - Packages:
-  - [NumPy]() [![Open In Colab])
+  - [NumPy]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
   - [Pandas]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
-- [Economic planning with real data ]()[![Open In Colab]()
+- [Economic planning with real data ]()[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 
 ## The requirements and recommendations
