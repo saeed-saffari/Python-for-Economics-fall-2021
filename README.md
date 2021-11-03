@@ -4,7 +4,7 @@
 
 **Teaching Assistant At University of Tehran and Allameh Tabataba'i Univeristy**
 
-**Spring 2021**
+**Fall 2021**
 
 <br>
 
@@ -20,4 +20,3 @@ We will begin with an introduction to general-purpose programming: data types, c
 
 - [MSc Planning Economics (ATU)]()
 - [MSc Advance Natural Economics (UT)]()
-- [BSc Advance Macroeconomics (UT)]()
