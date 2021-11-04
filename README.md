@@ -19,4 +19,4 @@ We will begin with an introduction to general-purpose programming: data types, c
 ## Parts
 
 - [MSc Planning Economics (ATU)](https://github.com/saeed-saffari/Python-for-Economics-fall-2021/tree/main/Planning%20Economics)
-- [MSc Advance Natural Economics (UT)]()
+- [MSc Advanced Natural Resource Economics (UT)]()
