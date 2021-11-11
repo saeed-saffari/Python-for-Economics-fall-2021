@@ -4,14 +4,14 @@
 
 - [Introduction](https://github.com/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Planning%20Economics/Python%20for%20Economics%20-%20Introduction%20-%20ATU%20-%20spr%202021.pdf)
 - Python Setup
-- [Object and Data Structure Basics](https://github.com/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Planning%20Economics/1.%20Data%20Structure%20Basic.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Planning%20Economics/1.%20Data%20Structure%20Basic.ipynb)
+- [Object and Data Structure Basics]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
-- [Python Statements and Functions](https://github.com/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Planning%20Economics/2.%20Conditional%20Control%20and%20Function.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Planning%20Economics/2.%20Conditional%20Control%20and%20Function.ipynb)
+- [Python Statements and Functions]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 - Packages:
-  - [NumPy](https://github.com/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Planning%20Economics/3.%20NumPy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Planning%20Economics/3.%20NumPy.ipynb)
-  - [Pandas](https://github.com/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Planning%20Economics/5.%20Pandas%2001.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Planning%20Economics/5.%20Pandas%2001.ipynb)
-- [Economic planning with real data ](https://github.com/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Planning%20Economics/6.%20Planning%20Economics.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Planning%20Economics/6.%20Planning%20Economics.ipynb)
+  - [NumPy]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  - [Pandas]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+- [Economic planning with real data ]()[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 
 ## The requirements and recommendations
