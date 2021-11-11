@@ -10,8 +10,8 @@
 
 - Packages:
   - [NumPy]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  - [Matplotlib]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
   - [Pandas]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
-- [Economic planning with real data ]()[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 
 ## The requirements and recommendations
