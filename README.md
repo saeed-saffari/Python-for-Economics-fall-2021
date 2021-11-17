@@ -1,4 +1,4 @@
-# Python for Economics 2021 ATU
+# Python for Economics 2021
 
 **Contact: m.saeed1024@yahoo.com**
 
