@@ -6,7 +6,7 @@
 - Python Setup
 - [Object and Data Structure Basics](https://github.com/saeed-saffari/Python-for-Economics-fall-2021/blob/main/Natural%20Resource%20Economics/01%20-%20basic%20python.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Python-for-Economics-fall-2021/blob/main/Natural%20Resource%20Economics/01%20-%20basic%20python.ipynb)
 
-- [Python Statements and Functions]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+- [Python Statements and Functions](https://github.com/saeed-saffari/Python-for-Economics-fall-2021/blob/main/Natural%20Resource%20Economics/02%20-%20Loops%20python.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Python-for-Economics-fall-2021/blob/main/Natural%20Resource%20Economics/02%20-%20Loops%20python.ipynb)
 
 - Packages:
   - [NumPy]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
