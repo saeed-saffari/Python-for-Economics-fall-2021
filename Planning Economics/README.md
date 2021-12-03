@@ -9,7 +9,7 @@
 - [Python Statements and Functions](https://github.com/saeed-saffari/Python-for-Economics-fall-2021/blob/main/Planning%20Economics/02%20-%20Loops%20python.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Python-for-Economics-fall-2021/blob/main/Planning%20Economics/02%20-%20Loops%20python.ipynb)
 
 - Packages:
-  - [NumPy]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  - [NumPy](https://github.com/saeed-saffari/Python-for-Economics-fall-2021/blob/main/Planning%20Economics/03%20-%20NumPy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Python-for-Economics-fall-2021/blob/main/Planning%20Economics/03%20-%20NumPy.ipynb)
   - [Pandas]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 - [Economic planning with real data ]()[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
