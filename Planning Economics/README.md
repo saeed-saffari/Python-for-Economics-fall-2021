@@ -10,7 +10,7 @@
 
 - Packages:
   - [NumPy](https://github.com/saeed-saffari/Python-for-Economics-fall-2021/blob/main/Planning%20Economics/03%20-%20NumPy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Python-for-Economics-fall-2021/blob/main/Planning%20Economics/03%20-%20NumPy.ipynb)
-  - [Pandas]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  - [Pandas](https://github.com/saeed-saffari/Python-for-Economics-fall-2021/blob/main/Planning%20Economics/04%20-%20Pandas%2001.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Python-for-Economics-fall-2021/blob/main/Planning%20Economics/04%20-%20Pandas%2001.ipynb)
 - [Economic planning with real data ]()[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 
